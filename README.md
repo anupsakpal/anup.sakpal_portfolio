@@ -24,8 +24,8 @@ E-Portfolio for Data Science Experience
 
 •	Awarded with Key Performer for the financial year 2017-2018.
 
-●	Given responsibilities of production management for strategic accounts like Nike, Adidas, Underarmour and many more.
+•	Given responsibilities of production management for strategic accounts like Nike, Adidas, Underarmour and many more.
 
-●	Enhanced and modified SQL queries to make the QC tolerances readable.
+•	Enhanced and modified SQL queries to make the QC tolerances readable.
 
-●	Implemented use of Regression models in R-Studio to analyse sales and inventory trends.
+•	Implemented use of Regression models in R-Studio to analyse sales and inventory trends.
