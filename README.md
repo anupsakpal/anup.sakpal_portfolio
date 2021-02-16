@@ -29,3 +29,5 @@ E-Portfolio for Data Science Experience
 •	Enhanced and modified SQL queries to make the QC tolerances readable.
 
 •	Implemented use of Regression models in R-Studio to analyse sales and inventory trends.
+
+
