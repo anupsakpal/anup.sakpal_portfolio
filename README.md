@@ -1,11 +1,11 @@
 # anup.sakpal_portfolio
 E-Portfolio for Data Science Experience
 
-Employment
-May 2017 – July 2019        Consultant (Analytics – Supply Chain Management)
-                                                Bristlecone India
+**Employment**
+**May 2017 – July 2019        Consultant (Analytics – Supply Chain Management)
+                                                Bristlecone India**
 
-Responsibilities:
+**Responsibilities:**
 
 •	Quality checks on SQL databases on parameters like unit sales, inventory, dollar sales and more parameters in performance analytics for more than 4000 retailer supplier partnerships for our client SPS Commerce, New Jersey, USA.
 
@@ -18,7 +18,7 @@ Responsibilities:
 •	Creating and monitoring JIRA ticketing and Kanban Boards of weekly data pre-processing tasks and production.
 
 
-Achievements:
+**Achievements:**
 
 • Awarded with fastest promotion as a Consultant within the 6 months of joining.
 
