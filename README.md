@@ -8,13 +8,9 @@ E-Portfolio for Data Science Experience
 **Responsibilities:**
 
 •	Quality checks on SQL databases on parameters like unit sales, inventory, dollar sales and more parameters in performance analytics for more than 4000 retailer supplier partnerships for our client SPS Commerce, New Jersey, USA.
-
 •	Loading of Item, Item Account and Location master files in SQL server after series of quality checks and error nullification using SSIS and SSRS.
-
 •	Developing and deploying various weekly dashboards, extracts and excel reports using Microstrategy and Power BI.
-
 •	Discussing solutions with stakeholders in business and consulting in agile and waterfall projects.
-
 •	Creating and monitoring JIRA ticketing and Kanban Boards of weekly data pre-processing tasks and production.
 
 
