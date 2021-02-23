@@ -2,7 +2,7 @@
 E-Portfolio for Data Science Experience
 
 **Employment**
-**May 2017 – July 2019        Consultant (Analytics – Supply Chain Management)
+**May 2017 – July 2019          Consultant (Analytics – Supply Chain Management)
                                                 Bristlecone India**
 
 **Responsibilities:**
@@ -35,7 +35,7 @@ E-Portfolio for Data Science Experience
 *	Quality checks on the real time data and verification of the data using SQL and parameter monitors.
 *	Automation of webservices task using Python Selenium.
 
-Achievements:
+**Achievements:**
 *	Automation of manual web tasks using Python Selenium. Brought down of process of loading files from 45mins to 5mins, which reduced customer’s delivery time.
 
 
