@@ -5,7 +5,7 @@ E-Portfolio for Data Science Experience
 **May 2017 – July 2019          Consultant (Analytics – Supply Chain Management)
                                                 Bristlecone India**
                                                 
-**Company Website** : https://www.bcone.com/
+**Company Website** : https://www.bcone.com
 
 **Responsibilities:**
 
@@ -29,6 +29,8 @@ E-Portfolio for Data Science Experience
 
 **October 2015 – October 2016        SQL and Automation Developer
                                       Thermax India Ltd**
+                                      
+**Company Website** : https://www.thermaxglobal.com
 
 **Responsibilities:**
 *	Data pre-processing and integration using SQL ETL for data acquisitions in Boiler Industries 
@@ -44,6 +46,8 @@ E-Portfolio for Data Science Experience
 
 **July 2013 - Sept 2015            Inditron Enterprises 
                                    PLC and BI Development Engineer**
+                                   
+ **Company Website : http://www.sme.in/inditronenter/aboutus.html
 
 **Responsibilities:**
 *	Working on ETL and DCS logics and report exportation in different environments.
