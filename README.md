@@ -5,7 +5,7 @@ E-Portfolio for Data Science Experience
 **May 2017 – July 2019          Consultant (Analytics – Supply Chain Management)
                                                 Bristlecone India**
                                                 
-**Company Website : https://www.bcone.com/
+**Company Website** : https://www.bcone.com/
 
 **Responsibilities:**
 
